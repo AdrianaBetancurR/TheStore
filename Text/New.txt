@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TheStore - New Product</title>
+</head>
+<body>
+    <header>
+        <img src="logo.jpg" alt="Logo de TheStore">
+        <nav>
+            <a href="inicio.html">Inicio</a> |
+            <a href="productos.html">Productos</a> |
+            <a href="New.html">New Product</a> 
+        </nav>
+    </header>
+    <main>
+        <h1>New Product</h1>
+        <form>
+            <label for="name">Nombre:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="price">Precio:</label><br>
+            <input type="text" id="price" name="price"><br>
+            <label for="inventory">Inventario:</label><br>
+            <input type="text" id="inventory" name="inventory"><br>
+            <label for="image">Imagen:</label><br>
+            <input type="file" id="image" name="image"><br>
+            <input type="submit" value="Crear Producto">
+        </form>
+    </main>
+</body>
+</html>

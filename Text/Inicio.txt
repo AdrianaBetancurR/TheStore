@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<php>
+<head>
+    <title>TheStore - Inicio</title>
+</head>
+<body>
+    <header>
+        <img src="imagen.jpg" alt="Logo de TheStore">
+        <nav>
+            <a href="inicio.html">Inicio</a> |
+            <a href="productos.html">Productos</a> |
+            <a href="New.html">New Product</a> 
+        </nav>
+    </header>
+    <main>
+        <h1>Bienvenido a TheStore</h1>
+        <p>¡Estamos emocionados de tenerte aquí! Descubre la última moda y encuentra tu estilo único en nuestra tienda. Explora nuestra amplia gama de productos y disfruta de una experiencia de compra inigualable. ¡Feliz compra!</p>
+    </main>
+</body>
+</html>
